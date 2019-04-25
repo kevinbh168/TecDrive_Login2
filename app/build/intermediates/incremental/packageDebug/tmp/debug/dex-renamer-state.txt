@@ -1,0 +1,7 @@
+#Thu Apr 11 10:23:51 COT 2019
+base.0=C\:\\Users\\kevin\\Desktop\\ciclo-4\\Programacion_Moviles\\Laboratorios\\Semana7\\TecDrive_Login\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\kevin\\Desktop\\ciclo-4\\Programacion_Moviles\\Laboratorios\\Semana7\\TecDrive_Login\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
