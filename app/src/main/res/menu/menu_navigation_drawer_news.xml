@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:id="@+id/grp_1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:clickable="true"
+            android:focusable="true"
+            android:icon="@drawable/ic_home"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:clickable="true"
+            android:focusable="true"
+            android:icon="@drawable/ic_star_rate"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:title="Favoritos" />
+        <item
+            android:id="@+id/nav_profile"
+            android:clickable="true"
+            android:focusable="true"
+            android:icon="@drawable/ic_person"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:title="Perfil" />
+
+    </group>
+
+
+        <group
+            android:id="@+id/grp_2"
+            android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_settings"
+                android:clickable="true"
+                android:focusable="true"
+                android:icon="@drawable/ic_help"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:title="Ayuda y soporte" />
+            <item
+                android:id="@+id/nav_sign_out"
+                android:clickable="true"
+                android:focusable="true"
+                android:icon="@drawable/ic_power_settings_new"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:title="Cerrar Sesión" />
+        </group>
+
+</menu>
